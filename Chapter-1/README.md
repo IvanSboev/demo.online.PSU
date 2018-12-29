@@ -1,8 +1,6 @@
-[**Inertia**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1/Inertia) (Инерция тел) 
-
-Free fall (Свободное падение тел)
-
-Body movement by force (Движение тела под влиянием силы)
+* [**Inertia**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1/Inertia) (Инерция тел) 
+* Free fall (Свободное падение тел)
+* Body movement by force (Движение тела под влиянием силы)
 
 Newton laws of mechanics (Второй и третий законы механики Ньютона)
 
