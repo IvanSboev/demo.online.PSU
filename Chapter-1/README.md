@@ -1,4 +1,4 @@
-[Inertia](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1/Inertia/demo-1) (Инерция тел) 
+[Inertia](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1/Inertia) (Инерция тел) 
 
 Free fall (Свободное падение тел)
 
