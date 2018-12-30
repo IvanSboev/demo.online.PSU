@@ -1,1 +1,1 @@
-* Strange roll («Послушная» и  «непослушная» катушка)
+* [**Strange roll**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2/Strange%20roll) («Послушная» и  «непослушная» катушка)
