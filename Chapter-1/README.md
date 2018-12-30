@@ -5,4 +5,4 @@
 * [**The law of momentum conservation**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1/The%20law%20of%20momentum%20conservation/demo-1) (Закон сохранения импульса)
 * [**Addition of angular velocity**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1/Addition%20of%20angular%20velocity) (Сложение угловых скоростей)
 * [**Addition of motion**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1/Addition%20of%20motion/demo-1) (Сложение движений)
-* Body movement along the «loop» (Движение тела по «мертвой петле»)
+* Movement along the «loop» (Движение тела по «мертвой петле»)
