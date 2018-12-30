@@ -5,4 +5,3 @@
 * [**Newton laws of mechanics**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1/Newton%20laws%20of%20mechanics) (Второй и третий законы механики Ньютона)
 * [**The law of momentum conservation**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1/The%20law%20of%20momentum%20conservation/demo-1) (Закон сохранения импульса)
 * Movement by force (Движение тела под влиянием силы)
-* Free fall (Свободное падение тел)
