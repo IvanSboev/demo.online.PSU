@@ -7,7 +7,7 @@
 <h1> Глава 1. Поступательное и вращательное движение </h1> 
 
 ([**Chapter-1**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1))
------------------------------------
+
 * [Addition of angular velocity](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1/Addition%20of%20angular%20velocity) (Сложение угловых скоростей)
 * [Addition of motion](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1/Addition%20of%20motion) (Сложение движений)
 * [Inertia](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1/Inertia) (Инерция тел) 
