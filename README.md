@@ -2,10 +2,6 @@
   <img src="https://github.com/IvanSboev/demo.online.PSU/blob/master/title.png">
 </p>
 
-**ЛЕКЦИОННЫЕ ДЕМОНСТРАЦИИ ПО ФИЗИКЕ**
-
-<h1> ОБЩАЯ МЕХАНИКА </h1> 
-
 **Глава 1. Поступательное и вращательное движение**
 ([**Chapter-1**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1))
 
