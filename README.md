@@ -20,7 +20,7 @@ h1 [**Chapter-2 (Глава 2)**](https://github.com/IvanSboev/demo.online.PSU/t
 * [Strange roll](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2/Strange%20roll) («Послушная» и  «непослушная» катушка)
 * [The law of momentum conservation](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2/The%20law%20of%20momentum%20conservation) (Закон сохранения момента импульса)
 
-h1 [**Chapter-3 (Глава 3)**](): Закон сохранения и превращения энергии
+h1 [**Chapter-3 (Глава 3)**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3): Закон сохранения и превращения энергии
 -----------------------------------
 * [Ball collision](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3/Ball%20collision) (Упругий и неупругий удар)
 * [Maxwell pendulum](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3/Maxwell%20pendulum) (Маятник Максвелла)
