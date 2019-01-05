@@ -20,6 +20,8 @@
 * [Strange roll](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2/Strange%20roll) («Послушная» и  «непослушная» катушка)
 * [The law of momentum conservation](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2/The%20law%20of%20momentum%20conservation) (Закон сохранения момента импульса)
 
+3. [**Chapter-3 (Глава 3)**](): Закон сохранения и превращения энергии
+
 ...
 
 Пермский государственный национальный исследовательский университет, Пермь
