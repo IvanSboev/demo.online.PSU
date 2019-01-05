@@ -1,4 +1,4 @@
-![**Лекционные демонстрации по физике**](https://github.com/IvanSboev/demo.online.PSU/blob/master/Title.png)
+![Лекционные демонстрации по физике](https://github.com/IvanSboev/demo.online.PSU/blob/master/Title.png)
 
 ОБЩАЯ МЕХАНИКА
 
