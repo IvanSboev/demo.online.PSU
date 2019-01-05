@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://github.com/IvanSboev/demo.online.PSU/blob/master/title.png">
+  <img src="title.png">
 </p>
 
 **Глава 1. Поступательное и вращательное движение**
