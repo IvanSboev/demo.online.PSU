@@ -1,4 +1,4 @@
-![ЛЕКЦИОННЫЕ ДЕМОНСТРАЦИИ ПО ФИЗИКЕ](https://github.com/IvanSboev/demo.online.PSU/blob/master/Title.png)
+<img src="https://github.com/IvanSboev/demo.online.PSU/blob/master/Title.png">
 
 **ЛЕКЦИОННЫЕ ДЕМОНСТРАЦИИ ПО ФИЗИКЕ**
 
