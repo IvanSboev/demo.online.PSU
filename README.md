@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <img src="https://github.com/IvanSboev/demo.online.PSU/blob/master/Title.png">
 </p>
 
