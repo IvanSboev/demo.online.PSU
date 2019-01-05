@@ -1,5 +1,7 @@
 **Лекционные демонстрации по физике**
 
+![screenshot of sample](https://vk.com/album-146970214_243718213?z=photo-146970214_456239119%2Falbum-146970214_243718213)
+
 ОБЩАЯ МЕХАНИКА
 
 h1 [**Chapter-1**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1) Глава 1. Поступательное и вращательное движение
