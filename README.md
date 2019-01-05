@@ -34,7 +34,6 @@
 * Inertial forces (Действие сил инерции при вращательном движении)
 * Coriolis force (Сила Кориолиса)
 * Foucault pendulum (Маятник Фуко)
-* Friction (Сухое и жидкое трение)
 * Frictial forces (Силы трения. Сухое и жидкое трение)
 * Stagnation phenomenon (Явление застоя)
 
