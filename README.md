@@ -6,7 +6,7 @@
 
 [**Chapter-1**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1) 
 Глава 1. Поступательное и вращательное движение
------------------------------------
+
 * [Addition of angular velocity](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1/Addition%20of%20angular%20velocity) (Сложение угловых скоростей)
 * [Addition of motion](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1/Addition%20of%20motion) (Сложение движений)
 * [Inertia](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1/Inertia) (Инерция тел) 
@@ -17,7 +17,7 @@
 
 [**Chapter-2**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2) 
 Глава 2. Динамика твердого тела
------------------------------------
+
 * [Center of mass](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2/Center%20of%20mass) (Движение центра масс)
 * [Gyroscopic effect](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2/Gyroscopic%20effect) (Гироскопический эффект)
 * [Moment of inertia](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2/Moment%20of%20inertia) (Момент инерции)
@@ -26,7 +26,7 @@
 
 [**Chapter-3**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3) 
 Глава 3. Закон сохранения и превращения энергии
------------------------------------
+
 * [Ball collision](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3/Ball%20collision) (Упругий и неупругий удар)
 * [Maxwell pendulum](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3/Maxwell%20pendulum) (Маятник Максвелла)
 * [Potential barrier](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3/Potential%20barrier) (Потенциальный барьер)
@@ -35,7 +35,7 @@
 
 [**Chapter-4**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4) 
 Глава 4. Силы инерции, тяготения, трения
------------------------------------
+
 * Free fall (Свободное падение)
 * Inertial forces (Действие сил инерции при вращательном движении)
 * Coriolis force (Сила Кориолиса)
