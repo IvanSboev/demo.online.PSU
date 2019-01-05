@@ -1,4 +1,6 @@
-<img src="https://github.com/IvanSboev/demo.online.PSU/blob/master/Title.png">
+<p align="center">
+  <img src="https://github.com/IvanSboev/demo.online.PSU/blob/master/Title.png">
+</p>
 
 **ЛЕКЦИОННЫЕ ДЕМОНСТРАЦИИ ПО ФИЗИКЕ**
 
