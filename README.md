@@ -1,6 +1,7 @@
-![ЛЕКЦИОННЫЕ ДЕМОНСТРАЦИИ ПО ФИЗИКЕ](https://github.com/IvanSboev/demo.online.PSU/blob/master/Title.png)
+![ЛЕКЦИОННЫЕ ДЕМОНСТРАЦИИ ПО ФИЗИКЕ screenshot of sample](https://github.com/IvanSboev/demo.online.PSU/blob/master/Title.png)
 
 **ЛЕКЦИОННЫЕ ДЕМОНСТРАЦИИ ПО ФИЗИКЕ**
+
 ОБЩАЯ МЕХАНИКА
 
 h1 [**Chapter-1**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1) Глава 1. Поступательное и вращательное движение
