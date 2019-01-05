@@ -28,6 +28,15 @@
 * [Rolling cylinder](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3/Rolling%20cylinder) (Скатывание с наклонной плоскости сплошного и полого цилиндров)
 * [Transition of energy](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3/Transition%20of%20energy) (Переход потенциальной энергии в кинетическую и обратный переход)
 
+4. [**Chapter-4 (Глава 4)**](): Силы инерции, тяготения, трения
+
+* [**Free fall**]() (Свободное падение)
+* [**Inertial forces**]() (Действие сил инерции при вращательном движении)
+* [**Coriolis force**]() (Сила Кориолиса)
+* [**Foucault pendulum**]() (Маятник Фуко)
+* [**Friction**]() (Сухое и жидкое трение)
+* [**Frictial forces**]() (Силы трения. Сухое и жидкое трение)
+* Stagnation phenomenon (Явление застоя)
 ...
 
 Пермский государственный национальный исследовательский университет, Пермь
