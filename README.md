@@ -1,6 +1,6 @@
 **Лекционные демонстрации по физике**
 
-![screenshot of sample](https://vk.com/album-146970214_243718213?z=photo-146970214_456239119%2Falbum-146970214_243718213)
+![screenshot of sample](https://github.com/IvanSboev/demo.online.PSU/blob/master/title.png)
 
 ОБЩАЯ МЕХАНИКА
 
