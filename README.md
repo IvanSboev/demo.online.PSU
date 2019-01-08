@@ -34,17 +34,17 @@
 **Глава 4. Силы инерции, тяготения, трения**
 ([**Chapter-4**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4))
 
-* [**Coriolis force**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Coriolis%20force) (Сила Кориолиса)
-* [**Foucault pendulum**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Foucault%20pendulum) (Маятник Фуко)
-* [**Frictial forces**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Frictial%20forces) (Силы трения. Сухое и жидкое трение)
-* [**Inertial forces**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Inertial%20forces) (Действие сил инерции при вращательном движении)
+* [Coriolis force](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Coriolis%20force) (Сила Кориолиса)
+* [Foucault pendulum](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Foucault%20pendulum) (Маятник Фуко)
+* [Frictial forces](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Frictial%20forces) (Силы трения. Сухое и жидкое трение)
+* [Inertial forces](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Inertial%20forces) (Действие сил инерции при вращательном движении)
 * Free fall (Свободное падение)
 * Stagnation phenomenon (Явление застоя)
 
 **Глава 5. Упругие свойства твердых тел**
 ([**Chapter-5**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-5))
 
-* [**Hooke law**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-5) (Закон Гука)
+* [Hooke law](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-5) (Закон Гука)
 
 ...
 
