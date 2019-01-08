@@ -45,6 +45,9 @@
 ([**Chapter-5**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-5))
 
 * [Hooke law](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-5) (Закон Гука)
+* Модель деформируемого твердого тела
+* Изгиб
+* Деформация кручения
 
 ...
 
