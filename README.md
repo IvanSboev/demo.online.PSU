@@ -40,7 +40,6 @@
 * [Inertial forces](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Inertial%20forces) (Действие сил инерции при вращательном движении)
 * Free fall (Свободное падение)
 * Stagnation phenomenon (Явление застоя)
-* Бегающая цепочка
 
 **Глава 5. Упругие свойства твердых тел**
 ([**Chapter-5**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-5))
