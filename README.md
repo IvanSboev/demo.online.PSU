@@ -14,7 +14,7 @@
 * Movement by force (Движение тела под влиянием силы)
 
 **Глава 2. Динамика твердого тела**
-([**Chapter-2**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2) )
+([**Chapter-2**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2))
 
 * [Center of mass](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2/Center%20of%20mass) (Движение центра масс)
 * [Gyroscopic effect](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2/Gyroscopic%20effect) (Гироскопический эффект)
