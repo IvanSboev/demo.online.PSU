@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="title.png">
+  <img src="part1.png">
 </p>
 
 **Глава 1. Поступательное и вращательное движение**
