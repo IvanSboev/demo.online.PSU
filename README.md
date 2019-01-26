@@ -44,16 +44,14 @@
 **Глава 5. Упругие свойства твердых тел**
 ([**Chapter-5**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-5))
 
+* [Bending deformation](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-5/Bending%20deformation) (Изгиб)
 * [Hooke law](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-5) (Закон Гука)
 * Модель деформируемого твердого тела
-* Изгиб
 * Деформация кручения
 
 <p align="right">
   <img src="title2.png">
 </p>
-
-Шрифт на рис. Lib Sans (21pt/48pt)
 
 ...
 
