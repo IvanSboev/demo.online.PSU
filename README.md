@@ -50,7 +50,7 @@
 * Деформация кручения
 
 <p align="right">
-  <img src="title2.png">
+  <img src="part2.png">
 </p>
 
 ...
