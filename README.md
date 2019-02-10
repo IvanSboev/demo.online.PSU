@@ -3,7 +3,6 @@
 </p>
 
 **[Глава 1](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1). Поступательное и вращательное движение**
-(**Chapter-1**)
 
 * Addition of angular velocity ([Сложение угловых скоростей](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1/Addition%20of%20angular%20velocity))
 * Addition of motion ([Сложение движений](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1/Addition%20of%20motion))
@@ -13,23 +12,21 @@
 * The law of momentum conservation ([Закон сохранения импульса](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1/The%20law%20of%20momentum%20conservation))
 * Movement by force (Движение тела под влиянием силы)
 
-**Глава 2. Динамика твердого тела**
-([**Chapter-2**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2))
+**[Глава 2](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2). Динамика твердого тела**
 
-* [Center of mass](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2/Center%20of%20mass) (Движение центра масс)
-* [Gyroscopic effect](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2/Gyroscopic%20effect) (Гироскопический эффект)
-* [Moment of inertia](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2/Moment%20of%20inertia) (Момент инерции)
-* [Strange roll](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2/Strange%20roll) («Послушная» и  «непослушная» катушка)
-* [The law of momentum conservation](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2/The%20law%20of%20momentum%20conservation) (Закон сохранения момента импульса)
+* Center of mass ([Движение центра масс](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2/Center%20of%20mass))
+* Gyroscopic effect ([Гироскопический эффект](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2/Gyroscopic%20effect))
+* Moment of inertia ([Момент инерции](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2/Moment%20of%20inertia))
+* Strange roll ([«Послушная» и  «непослушная» катушка](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2/Strange%20roll))
+* The law of momentum conservation ([Закон сохранения момента импульса](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-2/The%20law%20of%20momentum%20conservation))
 
-**Глава 3. Закон сохранения и превращения энергии**
-([**Chapter-3**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3))
+**[Глава 3](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3). Закон сохранения и превращения энергии**
 
-* [Ball collision](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3/Ball%20collision) (Упругий и неупругий удар)
-* [Maxwell pendulum](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3/Maxwell%20pendulum) (Маятник Максвелла)
-* [Potential barrier](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3/Potential%20barrier) (Потенциальный барьер)
-* [Rolling cylinder](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3/Rolling%20cylinder) (Скатывание с наклонной плоскости сплошного и полого цилиндров)
-* [Transition of energy](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3/Transition%20of%20energy) (Переход потенциальной энергии в кинетическую и обратный переход)
+* Ball collision ([Упругий и неупругий удар](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3/Ball%20collision))
+* Maxwell pendulum ([Маятник Максвелла](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3/Maxwell%20pendulum))
+* Potential barrier ([Потенциальный барьер](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3/Potential%20barrier))
+* Rolling cylinder ([Скатывание с наклонной плоскости сплошного и полого цилиндров](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3/Rolling%20cylinder))
+* Transition of energy ([Переход потенциальной энергии в кинетическую и обратный переход](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3/Transition%20of%20energy))
 
 **Глава 4. Силы инерции, тяготения, трения**
 ([**Chapter-4**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4))
