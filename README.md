@@ -2,8 +2,8 @@
   <img src="part1.png">
 </p>
 
-**Глава 1. Поступательное и вращательное движение**
-([**Chapter-1**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1))
+**[Глава 1](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1). Поступательное и вращательное движение**
+(**Chapter-1**)
 
 * Addition of angular velocity ([Сложение угловых скоростей](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1/Addition%20of%20angular%20velocity))
 * [Addition of motion](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-1/Addition%20of%20motion) (Сложение движений)
