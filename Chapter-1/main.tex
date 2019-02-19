@@ -1,0 +1,28 @@
+%\documentclass[wert.tex]{subfiles}
+%\documentclass[14pt,a4paper,twoside]{report}	% Размер основного шрифта и формата листа
+\documentclass[12pt,a4paper,twoside]{report}
+\usepackage{xltxtra,xunicode,polyglossia}						% Используется для вывода логотипа XeLaTeX
+\newfontfamily\russianfont{Liberation Serif}
+\usepackage{subfiles}
+\setdefaultlanguage{russian}				% Основной язык текста
+\setotherlanguage{english}					% Дополнительный язык текста
+\linespread{1}							% Межстрочный интервал выбран полуторным
+\usepackage[left=2.5cm,right=1.5cm,vmargin=2.5cm]{geometry} % Отступы по краям листа
+
+
+\usepackage{xcolor,hyperref}
+\definecolor{linkcolor}{HTML}{359B08} % цвет ссылок
+\definecolor{urlcolor}{HTML}{799B03} % цвет гиперссылок
+\hypersetup{pdfstartview=FitH,  linkcolor=linkcolor,urlcolor=urlcolor, colorlinks=true}
+
+\usepackage{verbatim,indentfirst,cite,enumerate,float,amsmath,amssymb,amsthm,amsfonts}
+\usepackage{graphicx,fontspec,subfigure}
+
+\graphicspath{{Addition_of_angular_velocity/}{Addition_of_motion/}{Inertia/demo-1/}
+{Inertia/demo-2/}}
+\begin{document}
+	\subfile{Addition_of_angular_velocity/Addition_of_angular_velocity.tex}
+	\subfile{Addition_of_motion/Addition_of_motion.tex}
+	\subfile{Inertia/demo-1/List_and_glass.tex}
+	\subfile{Inertia/demo-2/Impulse_and_two_threads.tex}
+\end{document}
