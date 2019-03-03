@@ -28,7 +28,7 @@
 * [Скатывание с наклонной плоскости сплошного и полого цилиндров](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3/Rolling%20cylinder)/Rolling cylinder
 * [Переход потенциальной энергии в кинетическую и обратный переход](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3/Transition%20of%20energy)/Transition of energy
 
-**[Глава 4](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4). Силы инерции, тяготения, трения, упругости**
+**[Глава 4](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4). Силы инерции/тяготения/трения/упругости**
 
 * [Сила Кориолиса](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Coriolis%20force)/Coriolis force
 * [Маятник Фуко](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Foucault%20pendulum)/Foucault pendulum
