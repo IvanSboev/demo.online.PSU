@@ -35,7 +35,7 @@
 * [Силы трения. Сухое и жидкое трение](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Frictial%20forces)/Frictial forces
 * [Действие сил инерции при вращательном движении](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Inertial%20forces)/Inertial forces
 * [Изгиб](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Bending%20deformation)/Bending deformation
-* [Закон Гука](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-5)/Hooke law
+* [Закон Гука](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Hooke%20law)/Hooke law
 * Free fall (Свободное падение)
 * Stagnation phenomenon (Явление застоя)
 * Модель деформируемого твердого тела
