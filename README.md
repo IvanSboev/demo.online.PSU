@@ -28,23 +28,20 @@
 * [Скатывание с наклонной плоскости сплошного и полого цилиндров](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3/Rolling%20cylinder)/Rolling cylinder
 * [Переход потенциальной энергии в кинетическую и обратный переход](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-3/Transition%20of%20energy)/Transition of energy
 
-**Глава 4. Силы инерции, тяготения, трения**
-([**Chapter-4**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4))
+**[Глава 4](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4). Силы инерции, тяготения, трения, упругости**
 
-* [Coriolis force](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Coriolis%20force) (Сила Кориолиса)
-* [Foucault pendulum](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Foucault%20pendulum) (Маятник Фуко)
-* [Frictial forces](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Frictial%20forces) (Силы трения. Сухое и жидкое трение)
-* [Inertial forces](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Inertial%20forces) (Действие сил инерции при вращательном движении)
+* [Сила Кориолиса](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Coriolis%20force)/Coriolis force
+* [Маятник Фуко](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Foucault%20pendulum)/Foucault pendulum
+* [Силы трения. Сухое и жидкое трение](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Frictial%20forces)/Frictial forces
+* [Действие сил инерции при вращательном движении](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-4/Inertial%20forces)/Inertial forces
+* [Изгиб](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-5/Bending%20deformation)/Bending deformation
+* [Закон Гука](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-5)/Hooke law
 * Free fall (Свободное падение)
 * Stagnation phenomenon (Явление застоя)
-
-**Глава 5. Упругие свойства твердых тел**
-([**Chapter-5**](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-5))
-
-* [Bending deformation](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-5/Bending%20deformation) (Изгиб)
-* [Hooke law](https://github.com/IvanSboev/demo.online.PSU/tree/master/Chapter-5) (Закон Гука)
 * Модель деформируемого твердого тела
 * Деформация кручения
+
+**Глава 5**
 
 <p align="right">
   <img src="part2.png">
