@@ -1,3 +1,32 @@
 \select@language {russian}
-\contentsline {chapter}{\numberline {1}Сложение угловых скоростей}{3}{chapter.1}% 
-\contentsline {chapter}{\numberline {2}Сложение движений}{7}{chapter.2}% 
+\contentsline {chapter}{\numberline {1}\leavevmode {\color {PineGreen}Поступательное и вращательное движение}}{3}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Сложение угловых скоростей}{3}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Сложение движений}{6}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}Выдёргивание листа бумаги из-под стакана}{9}{section.1.3}% 
+\contentsline {section}{\numberline {1.4}Импульс силы. Гиря и две нити}{11}{section.1.4}% 
+\contentsline {section}{\numberline {1.5}Движение тела по «мёртвой петле»}{14}{section.1.5}% 
+\contentsline {section}{\numberline {1.6}Второй закон Ньютона. Две тележки}{17}{section.1.6}% 
+\contentsline {section}{\numberline {1.7}Третий закон Ньютона на примере силы Архимеда}{20}{section.1.7}% 
+\contentsline {chapter}{\numberline {2}\leavevmode {\color {PineGreen}Динамика твердого тела}}{23}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Отыскание центра масс}{23}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}Двойной конус}{25}{section.2.2}% 
+\contentsline {section}{\numberline {2.3}Гироскоп на вращающейся платформе}{27}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}Прецессия гироскопа. Волчок}{30}{section.2.4}% 
+\contentsline {section}{\numberline {2.5}Крестообразный маятник Обербека}{33}{section.2.5}% 
+\contentsline {section}{\numberline {2.6}Свободные оси вращения}{37}{section.2.6}% 
+\contentsline {section}{\numberline {2.7}«Послушная» и «непослушная» катушка}{41}{section.2.7}% 
+\contentsline {section}{\numberline {2.8}Скамья Жуковского}{44}{section.2.8}% 
+\contentsline {chapter}{\numberline {3}\leavevmode {\color {PineGreen}Закон сохранения и превращения энергии}}{48}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Упругий и неупругий удары}{48}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Маятник Максвелла}{53}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Потенциальный барьер}{57}{section.3.3}% 
+\contentsline {section}{\numberline {3.4}Скатывание двух цилиндров}{60}{section.3.4}% 
+\contentsline {section}{\numberline {3.5}Переход потенциальной энергии в кинетическую и обратный переход}{63}{section.3.5}% 
+\contentsline {chapter}{\numberline {4}\leavevmode {\color {PineGreen}Силы инерции, тяготения, трения, упругости}}{66}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Сила Кориолиса}{66}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Маятник Фуко}{69}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}Сухое и жидкое трение}{73}{section.4.3}% 
+\contentsline {section}{\numberline {4.4}Силы сухого трения}{75}{section.4.4}% 
+\contentsline {section}{\numberline {4.5}Закон Гука}{78}{section.4.5}% 
+\contentsline {section}{\numberline {4.6}Отвесы на вращающейся платформе}{81}{section.4.6}% 
+\contentsline {section}{\numberline {4.7}Параболическая поверхность вращающейся жидкости}{85}{section.4.7}% 

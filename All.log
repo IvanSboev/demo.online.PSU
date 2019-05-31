@@ -1,12 +1,12 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.8)  23 MAR 2019 13:40
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.2.8)  24 MAY 2019 11:28
 entering extended mode
 **./All.tex
 (All.tex
 LaTeX2e <2018-12-01>
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
 Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
-("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
-File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@chapter=\count81
@@ -331,23 +331,23 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 \xpg@normalclass=\XeTeXcharclass1
 )
 
-Package fontspec Info: Font family 'LiberationSerif(0)' created for font
-(fontspec)             'Liberation Serif' with options [].
+Package fontspec Info: Font family 'LiberationSans(0)' created for font
+(fontspec)             'Liberation Sans' with options [].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Liberation
-(fontspec)             Serif/OT:script=latn;language=DFLT;"
+(fontspec)             Sans/OT:script=latn;language=DFLT;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (bx/n) with NFSS spec.: <->"Liberation
-(fontspec)             Serif/B/OT:script=latn;language=DFLT;"
+(fontspec)             Sans/B/OT:script=latn;language=DFLT;"
 (fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
 (fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Liberation
-(fontspec)             Serif/I/OT:script=latn;language=DFLT;"
+(fontspec)             Sans/I/OT:script=latn;language=DFLT;"
 (fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
 (fontspec)             - 'bold italic' (bx/it) with NFSS spec.: <->"Liberation
-(fontspec)             Serif/BI/OT:script=latn;language=DFLT;"
+(fontspec)             Sans/BI/OT:script=latn;language=DFLT;"
 (fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 
 
@@ -407,6 +407,27 @@ Package ifvtex Info: VTeX not detected.
 
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xetexconfig\geo
 metry.cfg"))
+("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\ragged2e.sty"
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everysel.sty"
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip49
+\RaggedLeftLeftskip=\skip50
+\RaggedRightLeftskip=\skip51
+\CenteringRightskip=\skip52
+\RaggedLeftRightskip=\skip53
+\RaggedRightRightskip=\skip54
+\CenteringParfillskip=\skip55
+\RaggedLeftParfillskip=\skip56
+\RaggedRightParfillskip=\skip57
+\JustifyingParfillskip=\skip58
+\CenteringParindent=\skip59
+\RaggedLeftParindent=\skip60
+\RaggedRightParindent=\skip61
+\JustifyingParindent=\skip62
+)
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty
 "
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
@@ -424,6 +445,58 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\dvipsnam
+.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/newverbs\newverbs
+.sty"
+Package: newverbs 2012/05/08 v1.3a Define new 'verb' commands and short verb. c
+haracters
+)
+("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titlesec
+.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box49
+\beforetitleunit=\skip63
+\aftertitleunit=\skip64
+\ttl@plus=\dimen149
+\ttl@minus=\dimen150
+\ttl@toksa=\toks24
+\titlewidth=\dimen151
+\titlewidthlast=\dimen152
+\titlewidthfirst=\dimen153
+)
+("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/blindtext\blindte
+xt.sty"
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count191
+\c@Blindtext=\count192
+\c@blind@countparstart=\count193
+\blind@countxx=\count194
+\blindtext@numBlindtext=\count195
+\blind@countyy=\count196
+\c@blindlist=\count197
+\c@blindlistlevel=\count198
+\c@blindlist@level=\count199
+\blind@listitem=\count266
+\c@blind@listcount=\count267
+\c@blind@levelcount=\count268
+\blind@mathformula=\count269
+\blind@Mathformula=\count270
+\c@blind@randomcount=\count271
+\c@blind@randommax=\count272
+\c@blind@pangramcount=\count273
+\c@blind@pangrammax=\count274
+)
+("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/marvosym\marvosym
+.sty"
+Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
 )
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref
 .sty"
@@ -477,19 +550,25 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 s.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen149
-\Hy@linkcounter=\count191
-\Hy@pagecounter=\count192
+\@linkdim=\dimen154
+\Hy@linkcounter=\count275
+\Hy@pagecounter=\count276
 
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.d
 ef"
 File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count193
+\Hy@SavedSpaceFactor=\count277
 
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref
 .cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4393.
+
+("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\puenc.de
+f"
+File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Hyper figures OFF on input line 4519.
 Package hyperref Info: Link nesting OFF on input line 4524.
@@ -498,16 +577,16 @@ Package hyperref Info: Plain pages OFF on input line 4534.
 Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4772.
-\c@Hy@tempcnt=\count194
+\c@Hy@tempcnt=\count278
  ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5125.
-\XeTeXLinkMargin=\dimen150
-\Fld@menulength=\count195
-\Field@Width=\dimen151
-\Fld@charsize=\dimen152
+\XeTeXLinkMargin=\dimen155
+\Fld@menulength=\count279
+\Field@Width=\dimen156
+\Fld@charsize=\dimen157
 Package hyperref Info: Hyper figures OFF on input line 6380.
 Package hyperref Info: Link nesting OFF on input line 6385.
 Package hyperref Info: Hyper index ON on input line 6388.
@@ -517,9 +596,9 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6405.
 Package hyperref Info: PDF/A mode OFF on input line 6410.
 LaTeX Info: Redefining \ref on input line 6450.
 LaTeX Info: Redefining \pageref on input line 6454.
-\Hy@abspage=\count196
-\c@Item=\count197
-\c@Hfootnote=\count198
+\Hy@abspage=\count280
+\c@Item=\count281
+\c@Hfootnote=\count282
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
@@ -527,20 +606,16 @@ Package hyperref Info: Driver (autodetected): hxetex.
 ef"
 File: hxetex.def 2018/11/30 v6.88e Hyperref driver for XeTeX
 
-("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\puenc.de
-f"
-File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
-)
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\string
 enc.sty"
 Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
 )
 )
-\pdfm@box=\box49
-\c@Hy@AnnotLevel=\count199
-\HyField@AnnotCount=\count266
-\Fld@listcount=\count267
-\c@bookmark@seq@number=\count268
+\pdfm@box=\box50
+\c@Hy@AnnotLevel=\count283
+\HyField@AnnotCount=\count284
+\Fld@listcount=\count285
+\c@bookmark@seq@number=\count286
 
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfil
 echeck.sty"
@@ -548,9 +623,9 @@ Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip49
+\Hy@SectionHShift=\skip65
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 16.
+Package hyperref Info: Option `colorlinks' set `true' on input line 25.
 
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\indentfirst
 .sty"
@@ -564,20 +639,20 @@ Package: cite 2015/02/27  v 5.5
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\enumerate.s
 ty"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks24
+\@enLab=\toks25
 )
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count269
-\float@exts=\toks25
-\float@box=\box50
-\@float@everytoks=\toks26
-\@floatcapt=\box51
+\c@float@type=\count287
+\float@exts=\toks26
+\float@box=\box51
+\@float@everytoks=\toks27
+\@floatcapt=\box52
 )
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.s
 ty"
 Package: amsmath 2018/12/01 v2.17b AMS math features
-\@mathmargin=\skip50
+\@mathmargin=\skip66
 
 For additional information on amsmath, use the `?' option.
 
@@ -588,53 +663,53 @@ Package: amstext 2000/06/29 v2.01 AMS text
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.st
 y"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks27
-\ex@=\dimen153
+\@emptytoks=\toks28
+\ex@=\dimen158
 ))
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.st
 y"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen154
+\pmbraise@=\dimen159
 )
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
 y"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count270
+\inf@bad=\count288
 LaTeX Info: Redefining \frac on input line 223.
-\uproot@=\count271
-\leftroot@=\count272
+\uproot@=\count289
+\leftroot@=\count290
 LaTeX Info: Redefining \overline on input line 385.
-\classnum@=\count273
-\DOTSCASE@=\count274
+\classnum@=\count291
+\DOTSCASE@=\count292
 LaTeX Info: Redefining \ldots on input line 482.
 LaTeX Info: Redefining \dots on input line 485.
 LaTeX Info: Redefining \cdots on input line 606.
-\Mathstrutbox@=\box52
-\strutbox@=\box53
-\big@size=\dimen155
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+\big@size=\dimen160
 LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
-\macc@depth=\count275
-\c@MaxMatrixCols=\count276
+\macc@depth=\count293
+\c@MaxMatrixCols=\count294
 \dotsspace@=\muskip17
-\c@parentequation=\count277
-\dspbrk@lvl=\count278
-\tag@help=\toks28
-\row@=\count279
-\column@=\count280
-\maxfields@=\count281
-\andhelp@=\toks29
-\eqnshift@=\dimen156
-\alignsep@=\dimen157
-\tagshift@=\dimen158
-\tagwidth@=\dimen159
-\totwidth@=\dimen160
-\lineht@=\dimen161
-\@envbody=\toks30
-\multlinegap=\skip51
-\multlinetaggap=\skip52
-\mathdisplay@stack=\toks31
+\c@parentequation=\count295
+\dspbrk@lvl=\count296
+\tag@help=\toks29
+\row@=\count297
+\column@=\count298
+\maxfields@=\count299
+\andhelp@=\toks30
+\eqnshift@=\dimen161
+\alignsep@=\dimen162
+\tagshift@=\dimen163
+\tagwidth@=\dimen164
+\totwidth@=\dimen165
+\lineht@=\dimen166
+\@envbody=\toks31
+\multlinegap=\skip67
+\multlinetaggap=\skip68
+\mathdisplay@stack=\toks32
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
 )
@@ -653,29 +728,29 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.sty
 "
 Package: amsthm 2017/10/31 v2.20.4
-\thm@style=\toks32
-\thm@bodyfont=\toks33
-\thm@headfont=\toks34
-\thm@notefont=\toks35
-\thm@headpunct=\toks36
-\thm@preskip=\skip53
-\thm@postskip=\skip54
-\thm@headsep=\skip55
-\dth@everypar=\toks37
+\thm@style=\toks33
+\thm@bodyfont=\toks34
+\thm@headfont=\toks35
+\thm@notefont=\toks36
+\thm@headpunct=\toks37
+\thm@preskip=\skip69
+\thm@postskip=\skip70
+\thm@headsep=\skip71
+\dth@everypar=\toks38
 )
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subfigu
 re.sty"
 Package: subfigure 2002/07/30 v2.1.4 subfigure package
-\subfigtopskip=\skip56
-\subfigcapskip=\skip57
-\subfigcaptopadj=\dimen162
-\subfigbottomskip=\skip58
-\subfigcapmargin=\dimen163
-\subfiglabelskip=\skip59
-\c@subfigure=\count282
-\c@lofdepth=\count283
-\c@subtable=\count284
-\c@lotdepth=\count285
+\subfigtopskip=\skip72
+\subfigcapskip=\skip73
+\subfigcaptopadj=\dimen167
+\subfigbottomskip=\skip74
+\subfigcapmargin=\dimen168
+\subfiglabelskip=\skip75
+\c@subfigure=\count300
+\c@lofdepth=\count301
+\c@subtable=\count302
+\c@lotdepth=\count303
 
 ****************************************
 * Local config file subfigure.cfg used *
@@ -683,8 +758,8 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subfigu
 re.cfg")
-\subfig@top=\skip60
-\subfig@bottom=\skip61
+\subfig@top=\skip76
+\subfig@bottom=\skip77
 )
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\bm.sty"
 Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
@@ -694,94 +769,98 @@ Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 207.
 )
-\c@contnumeq=\count286
-\c@contnumfig=\count287
-\c@contnumtab=\count288
+\c@contnumeq=\count304
+\c@contnumfig=\count305
+\c@contnumtab=\count306
+
+
+LaTeX Warning: Unused global option(s):
+    [16pt].
 
 (All.aux)
 \openout1 = `All.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 61.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 61.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 71.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 71.
 
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tipa\t3cmr.fd"
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup9
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 61.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 61.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 61.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 61.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 61.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 61.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 61.
-LaTeX Font Info:    Redeclaring math accent \check on input line 61.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 61.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 61.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 61.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 61.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 61.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 71.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 71.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 71.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 71.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 71.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 71.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 71.
+LaTeX Font Info:    Redeclaring math accent \check on input line 71.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 71.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 71.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 71.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 71.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 71.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 71.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 71.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 71.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 71.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 71.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 71.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 71.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 71.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 71.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 71.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 71.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 61.
+(Font)              `operators' in the math version `normal' on input line 71.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 61.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 71.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 61.
+(Font)              `operators' in the math version `bold' on input line 71.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 61.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 71.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 61.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 71.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 61.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 71.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 61.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 71.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 61.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 71.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 61.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 71.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 61.
+(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 71.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 61.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 71.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 61.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 71.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 61.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 71.
 
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -790,23 +869,23 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(71.13188pt, 483.69687pt, 42.67912pt)
-* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=483.69687pt
-* \textheight=702.78308pt
-* \oddsidemargin=-1.1381pt
-* \evensidemargin=-29.59087pt
-* \topmargin=-38.1381pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=12.0pt
+* \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=85.0pt
-* \marginparsep=10.0pt
+* \marginparwidth=111.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -816,8 +895,10 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box54
-Package hyperref Info: Link coloring ON on input line 61.
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 71.
+\AtBeginShipoutBox=\box55
+Package hyperref Info: Link coloring ON on input line 71.
 
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.
 sty"
@@ -827,95 +908,406 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 lestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count289
+\c@section@level=\count307
 )
-LaTeX Info: Redefining \ref on input line 61.
-LaTeX Info: Redefining \pageref on input line 61.
-LaTeX Info: Redefining \nameref on input line 61.
+LaTeX Info: Redefining \ref on input line 71.
+LaTeX Info: Redefining \pageref on input line 71.
+LaTeX Info: Redefining \nameref on input line 71.
  (All.out) (All.out)
 \@outlinefile=\write3
 \openout3 = `All.out'.
 
- (All.toc)
-\tf@toc=\write4
-\openout4 = `All.toc'.
+ (All.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 3.
 
-
-(Chapter-1/Addition_of_angular_velocity/Addition_of_angular_velocity.tex
-("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\se-asc
-ii-print.def"
-File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
-
-) [2
-
-
-]
-Глава 1.
-File: Chapter-1/Addition_of_angular_velocity/angular-1.png Graphic file (type b
-mp)
-<Chapter-1/Addition_of_angular_velocity/angular-1.png>
-LaTeX Font Info:    Try loading font information for U+msa on input line 69.
 ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 69.
+LaTeX Font Info:    Try loading font information for U+msb on input line 3.
  ("C:\Users\Lab905\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
 "
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [3
+))
+\tf@toc=\write4
+\openout4 = `All.toc'.
+
+ [1
+
+
+]
+File: tit1.png Graphic file (type bmp)
+<tit1.png>
+
+
+LaTeX Warning: Float too large for page by 12.54657pt on input line 86.
+
+(Chapter-1/Addition_of_angular_velocity/Addition_of_angular_velocity.tex
+[2]
+Глава 1.
+
+Overfull \hbox (44.81621pt too wide) in paragraph at lines 59--59
+|[][]\TU/LiberationSans(0)/bx/n/24.88 Поступательное и вращательное дви-
+ []
+
+File: Chapter-1/Addition_of_angular_velocity/angular-1.png Graphic file (type b
+mp)
+<Chapter-1/Addition_of_angular_velocity/angular-1.png>
+[3
 
 ]
 File: Chapter-1/Addition_of_angular_velocity/angular-2.png Graphic file (type b
 mp)
 <Chapter-1/Addition_of_angular_velocity/angular-2.png>
-
-Overfull \hbox (4.89499pt too wide) in paragraph at lines 115--116
-\TU/LiberationSerif(0)/m/n/12 которые лежат в горизонтальных плоскостях, перпен
-дикулярных оси вращения держателя, вдоль
- []
-
 File: Chapter-1/Addition_of_angular_velocity/angular-3.png Graphic file (type b
 mp)
 <Chapter-1/Addition_of_angular_velocity/angular-3.png>
-[4] [5]) (Chapter-1/Addition_of_motion/demo-1/Addition_speeds.tex [6]
-Глава 2.
+ [4]) [5] (Chapter-1/Addition_of_motion/demo-1/Addition_speeds.tex
 File: Chapter-1/Addition_of_motion/demo-1/aom-1.png Graphic file (type bmp)
 <Chapter-1/Addition_of_motion/demo-1/aom-1.png>
-[7
-
-]
 File: Chapter-1/Addition_of_motion/demo-1/aom-2.png Graphic file (type bmp)
 <Chapter-1/Addition_of_motion/demo-1/aom-2.png>
+ [6]
 File: Chapter-1/Addition_of_motion/demo-1/aom-3.png Graphic file (type bmp)
 <Chapter-1/Addition_of_motion/demo-1/aom-3.png>
-
-Underfull \vbox (badness 2443) has occurred while \output is active []
-
- [8]
 File: Chapter-1/Addition_of_motion/demo-1/aom-4.png Graphic file (type bmp)
 <Chapter-1/Addition_of_motion/demo-1/aom-4.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
 File: Chapter-1/Addition_of_motion/demo-1/aom-5.png Graphic file (type bmp)
 <Chapter-1/Addition_of_motion/demo-1/aom-5.png>
 File: Chapter-1/Addition_of_motion/demo-1/aom-6.png Graphic file (type bmp)
 <Chapter-1/Addition_of_motion/demo-1/aom-6.png>
+)
+[8] (Chapter-1/Inertia/demo-1/Pull_out_a_sheet.tex
+File: Chapter-1/Inertia/demo-1/inertia-1.png Graphic file (type bmp)
+<Chapter-1/Inertia/demo-1/inertia-1.png>
+ [9]) [10]
+(Chapter-1/Inertia/demo-2/Impulse_and_two_threads.tex
+File: Chapter-1/Inertia/demo-2/inertia-2.png Graphic file (type bmp)
+<Chapter-1/Inertia/demo-2/inertia-2.png>
+Missing character: There is no М in font cmmi10!
+ [11]
+File: Chapter-1/Inertia/demo-2/inertia-3.png Graphic file (type bmp)
+<Chapter-1/Inertia/demo-2/inertia-3.png>
+ [12]) [13]
+(Chapter-1/Movement_along_the_loop/Loop.tex
+File: Chapter-1/Movement_along_the_loop/loop-1.png Graphic file (type bmp)
+<Chapter-1/Movement_along_the_loop/loop-1.png>
+ [14]
+File: Chapter-1/Movement_along_the_loop/loop-2.png Graphic file (type bmp)
+<Chapter-1/Movement_along_the_loop/loop-2.png>
+ [15]) [16]
+(Chapter-1/Newton_laws_of_mechanics/demo-1/Second_Law_two_carts.tex
+File: Chapter-1/Newton_laws_of_mechanics/demo-1/newton-1.png Graphic file (type
+ bmp)
+<Chapter-1/Newton_laws_of_mechanics/demo-1/newton-1.png>
+ [17]
+File: Chapter-1/Newton_laws_of_mechanics/demo-1/newton-2.png Graphic file (type
+ bmp)
+<Chapter-1/Newton_laws_of_mechanics/demo-1/newton-2.png>
 
-[9])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
- [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
+[18]) [19] (Chapter-1/Newton_laws_of_mechanics/demo-2/Third_Law_Archimedes.tex
+File: Chapter-1/Newton_laws_of_mechanics/demo-2/newton-3.png Graphic file (type
+ bmp)
+<Chapter-1/Newton_laws_of_mechanics/demo-2/newton-3.png>
+
+[20]
+File: Chapter-1/Newton_laws_of_mechanics/demo-2/newton-4.png Graphic file (type
+ bmp)
+<Chapter-1/Newton_laws_of_mechanics/demo-2/newton-4.png>
+ [21]) [22] (Chapter-2/Center_of_mass/demo-1/Center_of_mass.tex
+Глава 2.
+File: Chapter-2/Center_of_mass/demo-1/center-1.png Graphic file (type bmp)
+<Chapter-2/Center_of_mass/demo-1/center-1.png>
+[23
+
+]
+File: Chapter-2/Center_of_mass/demo-1/center-2.png Graphic file (type bmp)
+<Chapter-2/Center_of_mass/demo-1/center-2.png>
+) [24] (Chapter-2/Center_of_mass/demo-2/Сone.tex
+File: Chapter-2/Center_of_mass/demo-2/center-3.png Graphic file (type bmp)
+<Chapter-2/Center_of_mass/demo-2/center-3.png>
+ [25]
+File: Chapter-2/Center_of_mass/demo-2/center-4.png Graphic file (type bmp)
+<Chapter-2/Center_of_mass/demo-2/center-4.png>
+) [26]
+(Chapter-2/Gyroscopic_effect/demo-1/Gyroscope_on_a_rotating_platform.tex
+File: Chapter-2/Gyroscopic_effect/demo-1/gyro-1.png Graphic file (type bmp)
+<Chapter-2/Gyroscopic_effect/demo-1/gyro-1.png>
+
+[27]
+File: Chapter-2/Gyroscopic_effect/demo-1/gyro-2.png Graphic file (type bmp)
+<Chapter-2/Gyroscopic_effect/demo-1/gyro-2.png>
+File: Chapter-2/Gyroscopic_effect/demo-1/gyro-3.png Graphic file (type bmp)
+<Chapter-2/Gyroscopic_effect/demo-1/gyro-3.png>
+ [28]) [29] (Chapter-2/Gyroscopic_effect/demo-2/Top.tex
+File: Chapter-2/Gyroscopic_effect/demo-2/gyro-4.png Graphic file (type bmp)
+<Chapter-2/Gyroscopic_effect/demo-2/gyro-4.png>
+File: Chapter-2/Gyroscopic_effect/demo-2/gyro-5.png Graphic file (type bmp)
+<Chapter-2/Gyroscopic_effect/demo-2/gyro-5.png>
+ [30]
+File: Chapter-2/Gyroscopic_effect/demo-2/gyro-6.png Graphic file (type bmp)
+<Chapter-2/Gyroscopic_effect/demo-2/gyro-6.png>
+ [31]
+File: Chapter-2/Gyroscopic_effect/demo-2/gyro-7.png Graphic file (type bmp)
+<Chapter-2/Gyroscopic_effect/demo-2/gyro-7.png>
+) [32]
+(Chapter-2/Moment_of_inertia/demo-1/Cross_Oberbeck_Pendulum.tex
+File: Chapter-2/Moment_of_inertia/demo-1/oberbeck-1.png Graphic file (type bmp)
+
+<Chapter-2/Moment_of_inertia/demo-1/oberbeck-1.png>
+ [33]
+File: Chapter-2/Moment_of_inertia/demo-1/oberbeck-2.png Graphic file (type bmp)
+
+<Chapter-2/Moment_of_inertia/demo-1/oberbeck-2.png>
+File: Chapter-2/Moment_of_inertia/demo-1/oberbeck-3.png Graphic file (type bmp)
+
+<Chapter-2/Moment_of_inertia/demo-1/oberbeck-3.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34]
+
+LaTeX Warning: Reference `3' on page 35 undefined on input line 165.
+
+File: Chapter-2/Moment_of_inertia/demo-1/oberbeck-4.png Graphic file (type bmp)
+
+<Chapter-2/Moment_of_inertia/demo-1/oberbeck-4.png>
+
+Underfull \vbox (badness 3713) has occurred while \output is active []
+
+ [35])
+[36] (Chapter-2/Moment_of_inertia/demo-2/Rotation_axis.tex
+File: Chapter-2/Moment_of_inertia/demo-2/freeaxis-1.png Graphic file (type bmp)
+
+<Chapter-2/Moment_of_inertia/demo-2/freeaxis-1.png>
+File: Chapter-2/Moment_of_inertia/demo-2/freeaxis-2.png Graphic file (type bmp)
+
+<Chapter-2/Moment_of_inertia/demo-2/freeaxis-2.png>
+ [37]
+File: Chapter-2/Moment_of_inertia/demo-2/freeaxis-3.png Graphic file (type bmp)
+
+<Chapter-2/Moment_of_inertia/demo-2/freeaxis-3.png>
+File: Chapter-2/Moment_of_inertia/demo-2/freeaxis-4.png Graphic file (type bmp)
+
+<Chapter-2/Moment_of_inertia/demo-2/freeaxis-4.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38]
+File: Chapter-2/Moment_of_inertia/demo-2/freeaxis-5.png Graphic file (type bmp)
+
+<Chapter-2/Moment_of_inertia/demo-2/freeaxis-5.png>
+
+[39]) [40] (Chapter-2/Strange_roll/Strange_roll.tex
+File: Chapter-2/Strange_roll/roll-1.png Graphic file (type bmp)
+<Chapter-2/Strange_roll/roll-1.png>
+ [41]
+File: Chapter-2/Strange_roll/roll-2.png Graphic file (type bmp)
+<Chapter-2/Strange_roll/roll-2.png>
+File: Chapter-2/Strange_roll/roll-3.png Graphic file (type bmp)
+<Chapter-2/Strange_roll/roll-3.png>
+ [42]) [43]
+(Chapter-2/The_law_of_momentum_conservation/Zhukovsky_is_bench.tex
+File: Chapter-2/The_law_of_momentum_conservation/chair-1.png Graphic file (type
+ bmp)
+<Chapter-2/The_law_of_momentum_conservation/chair-1.png>
+ [44]
+File: Chapter-2/The_law_of_momentum_conservation/chair-2.png Graphic file (type
+ bmp)
+<Chapter-2/The_law_of_momentum_conservation/chair-2.png>
+
+Underfull \vbox (badness 1048) has occurred while \output is active []
+
+ [45]
+File: Chapter-2/The_law_of_momentum_conservation/chair-3.png Graphic file (type
+ bmp)
+<Chapter-2/The_law_of_momentum_conservation/chair-3.png>
+
+[46]) [47] (Chapter-3/Ball_collision/Elastic_and_non-elastic_shock.tex
+Глава 3.
+File: Chapter-3/Ball_collision/hit-1.png Graphic file (type bmp)
+<Chapter-3/Ball_collision/hit-1.png>
+[48
+
+]
+File: Chapter-3/Ball_collision/hit-2.png Graphic file (type bmp)
+<Chapter-3/Ball_collision/hit-2.png>
+File: Chapter-3/Ball_collision/hit-3.png Graphic file (type bmp)
+<Chapter-3/Ball_collision/hit-3.png>
+
+Underfull \vbox (badness 3158) has occurred while \output is active []
+
+ [49]
+File: Chapter-3/Ball_collision/hit-4.png Graphic file (type bmp)
+<Chapter-3/Ball_collision/hit-4.png>
+
+[50]
+File: Chapter-3/Ball_collision/hit-5.png Graphic file (type bmp)
+<Chapter-3/Ball_collision/hit-5.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [51])
+[52] (Chapter-3/Maxwell_pendulum/Maxwell_pendulum.tex
+File: Chapter-3/Maxwell_pendulum/Maxwell-1.png Graphic file (type bmp)
+<Chapter-3/Maxwell_pendulum/Maxwell-1.png>
+ [53]
+File: Chapter-3/Maxwell_pendulum/Maxwell-2.png Graphic file (type bmp)
+<Chapter-3/Maxwell_pendulum/Maxwell-2.png>
+File: Chapter-3/Maxwell_pendulum/Maxwell-3.png Graphic file (type bmp)
+<Chapter-3/Maxwell_pendulum/Maxwell-3.png>
+ [54] [55]) [56]
+(Chapter-3/Potential_barrier/Potential_barrier.tex
+File: Chapter-3/Potential_barrier/barrier-1.png Graphic file (type bmp)
+<Chapter-3/Potential_barrier/barrier-1.png>
+ [57]
+File: Chapter-3/Potential_barrier/barrier-2.png Graphic file (type bmp)
+<Chapter-3/Potential_barrier/barrier-2.png>
+ [58]) [59]
+(Chapter-3/Rolling_cylinder/Rolling_cylinder.tex
+File: Chapter-3/Rolling_cylinder/inclinedplane-1.png Graphic file (type bmp)
+<Chapter-3/Rolling_cylinder/inclinedplane-1.png>
+File: Chapter-3/Rolling_cylinder/inclinedplane-2.png Graphic file (type bmp)
+<Chapter-3/Rolling_cylinder/inclinedplane-2.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [60]
+File: Chapter-3/Rolling_cylinder/inclinedplane-3.png Graphic file (type bmp)
+<Chapter-3/Rolling_cylinder/inclinedplane-3.png>
+
+[61]
+Underfull \hbox (badness 10000) in paragraph at lines 128--130
+\TU/LiberationSans(0)/m/n/10 где \TU/LiberationSans(0)/m/it/10 I \TU/Liberation
+Sans(0)/m/n/10 — момент инерции цилиндра относительно оси вращения,
+ []
+
+) [62] (Chapter-3/Transition_of_energy/Transition_of_energy.tex
+File: Chapter-3/Transition_of_energy/transform-1.png Graphic file (type bmp)
+<Chapter-3/Transition_of_energy/transform-1.png>
+File: Chapter-3/Transition_of_energy/transform-2.png Graphic file (type bmp)
+<Chapter-3/Transition_of_energy/transform-2.png>
+ [63]
+File: Chapter-3/Transition_of_energy/transform-3.png Graphic file (type bmp)
+<Chapter-3/Transition_of_energy/transform-3.png>
+ [64])
+[65] (Chapter-4/Coriolis_force/Coriolis_force.tex
+Глава 4.
+File: Chapter-4/Coriolis_force/Coriolis-1.png Graphic file (type bmp)
+<Chapter-4/Coriolis_force/Coriolis-1.png>
+[66
+
+]
+File: Chapter-4/Coriolis_force/Coriolis-2.png Graphic file (type bmp)
+<Chapter-4/Coriolis_force/Coriolis-2.png>
+File: Chapter-4/Coriolis_force/Coriolis-3.png Graphic file (type bmp)
+<Chapter-4/Coriolis_force/Coriolis-3.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [67])
+[68] (Chapter-4/Foucault_pendulum/Foucault_pendulum.tex
+File: Chapter-4/Foucault_pendulum/fuko-1.png Graphic file (type bmp)
+<Chapter-4/Foucault_pendulum/fuko-1.png>
+ [69]
+File: Chapter-4/Foucault_pendulum/fuko-2.png Graphic file (type bmp)
+<Chapter-4/Foucault_pendulum/fuko-2.png>
+File: Chapter-4/Foucault_pendulum/fuko-3.png Graphic file (type bmp)
+<Chapter-4/Foucault_pendulum/fuko-3.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [70]
+File: Chapter-4/Foucault_pendulum/fuko-4.png Graphic file (type bmp)
+<Chapter-4/Foucault_pendulum/fuko-4.png>
+File: Chapter-4/Foucault_pendulum/fuko-5.png Graphic file (type bmp)
+<Chapter-4/Foucault_pendulum/fuko-5.png>
+
+[71]) [72] (Chapter-4/Frictial_forces/demo-1/Dry_and_fluid_friction.tex
+File: Chapter-4/Frictial_forces/demo-1/friction-1.png Graphic file (type bmp)
+<Chapter-4/Frictial_forces/demo-1/friction-1.png>
+File: Chapter-4/Frictial_forces/demo-1/friction-2.png Graphic file (type bmp)
+<Chapter-4/Frictial_forces/demo-1/friction-2.png>
+
+[73]
+File: Chapter-4/Frictial_forces/demo-1/friction-3.png Graphic file (type bmp)
+<Chapter-4/Frictial_forces/demo-1/friction-3.png>
+) [74] (Chapter-4/Frictial_forces/demo-2/Dry_friction_force.tex
+File: Chapter-4/Frictial_forces/demo-2/friction-4.png Graphic file (type bmp)
+<Chapter-4/Frictial_forces/demo-2/friction-4.png>
+ [75]
+File: Chapter-4/Frictial_forces/demo-2/friction-5.png Graphic file (type bmp)
+<Chapter-4/Frictial_forces/demo-2/friction-5.png>
+
+[76]) [77] (Chapter-4/Hooke_law/Hooke_is_law.tex
+File: Chapter-4/Hooke_law/Hooke-1.png Graphic file (type bmp)
+<Chapter-4/Hooke_law/Hooke-1.png>
+ [78]
+File: Chapter-4/Hooke_law/Hooke-2.png Graphic file (type bmp)
+<Chapter-4/Hooke_law/Hooke-2.png>
+ [79]
+File: Chapter-4/Hooke_law/Hooke-3.png Graphic file (type bmp)
+<Chapter-4/Hooke_law/Hooke-3.png>
+) [80]
+(Chapter-4/Inertial_forces/demo-1/Plumbs_on_a_rotating_platform.tex
+File: Chapter-4/Inertial_forces/demo-1/platform-1.png Graphic file (type bmp)
+<Chapter-4/Inertial_forces/demo-1/platform-1.png>
+File: Chapter-4/Inertial_forces/demo-1/platform-2.png Graphic file (type bmp)
+<Chapter-4/Inertial_forces/demo-1/platform-2.png>
+ [81]
+File: Chapter-4/Inertial_forces/demo-1/regulator-1.png Graphic file (type bmp)
+<Chapter-4/Inertial_forces/demo-1/regulator-1.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [82]
+File: Chapter-4/Inertial_forces/demo-1/platform-3.png Graphic file (type bmp)
+<Chapter-4/Inertial_forces/demo-1/platform-3.png>
+
+[83]) [84]
+(Chapter-4/Inertial_forces/demo-2/Parabolic_surface_of_a_rotating_fluid.tex
+File: Chapter-4/Inertial_forces/demo-2/paraboloid-1.png Graphic file (type bmp)
+
+<Chapter-4/Inertial_forces/demo-2/paraboloid-1.png>
+
+[85]
+File: Chapter-4/Inertial_forces/demo-2/paraboloid-2.png Graphic file (type bmp)
+
+<Chapter-4/Inertial_forces/demo-2/paraboloid-2.png>
+File: Chapter-4/Inertial_forces/demo-2/paraboloid-3.png Graphic file (type bmp)
+
+<Chapter-4/Inertial_forces/demo-2/paraboloid-3.png>
+
+Underfull \vbox (badness 1275) has occurred while \output is active []
+
+ [86]
+File: Chapter-4/Inertial_forces/demo-2/paraboloid-4.png Graphic file (type bmp)
+
+<Chapter-4/Inertial_forces/demo-2/paraboloid-4.png>
+
+[87]) [88]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 124.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 124.
  (All.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 100.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 100.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 124.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 124.
 Package rerunfilecheck Info: File `All.out' has not changed.
-(rerunfilecheck)             Checksum: 318CCEED56C78155D3CE4E5476030C1D.
+(rerunfilecheck)             Checksum: 3E59A1155C4DD876973C8D820AE698E2.
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 25538 strings out of 427748
- 451341 string characters out of 3146824
- 554077 words of memory out of 3000000
- 29344 multiletter control sequences out of 15000+200000
- 545680 words of font info for 98 fonts, out of 3000000 for 9000
+ 27762 strings out of 427748
+ 530918 string characters out of 3146824
+ 614524 words of memory out of 3000000
+ 30596 multiletter control sequences out of 15000+200000
+ 537394 words of font info for 72 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 46i,6n,67p,840b,462s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,11n,67p,839b,478s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on All.pdf (9 pages).
+Output written on All.pdf (88 pages).

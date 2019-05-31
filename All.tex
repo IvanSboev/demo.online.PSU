@@ -1,19 +1,28 @@
 %\documentclass[wert.tex]{subfiles}
 %\documentclass[14pt,a4paper,twoside]{report}	% Размер основного шрифта и формата листа
-\documentclass[12pt,a4paper,twoside]{report}
+\documentclass[16pt,a4paper,twoside]{report}
 \usepackage{xltxtra,xunicode,polyglossia}						% Используется для вывода логотипа XeLaTeX
-\newfontfamily\russianfont{Liberation Serif}
+\newfontfamily\russianfont{Liberation Sans}
 \usepackage{subfiles}
 \setdefaultlanguage{russian}				% Основной язык текста
 \setotherlanguage{english}					% Дополнительный язык текста
 \linespread{1}							% Межстрочный интервал выбран полуторным
-\usepackage[left=2.5cm,right=1.5cm,vmargin=2.5cm]{geometry} % Отступы по краям листа
+\usepackage[left=2cm,right=2cm,vmargin=2cm]{geometry} % Отступы по краям листа %%% требование РИО
+\usepackage{ragged2e} % Fully justified text
+\usepackage[dvipsnames]{xcolor}
+\usepackage{newverbs}
+%\newverbcommand{\cverb}{\color{OliveGreen}}{}
 
+\usepackage{titlesec, blindtext} % подключаем нужные пакеты
+\newcommand{\hsp}{\hspace{20pt}} % длина линии в 20pt
+% titleformat определяет стиль
+\titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp{|}\hsp}{0pt}{\Huge\bfseries}
 
-\usepackage{xcolor,hyperref}
-\definecolor{linkcolor}{HTML}{359B08} % цвет ссылок
-\definecolor{urlcolor}{HTML}{799B03} % цвет гиперссылок
-\hypersetup{pdfstartview=FitH,  linkcolor=linkcolor,urlcolor=urlcolor, colorlinks=true}
+\bibliographystyle{ugost2008}
+
+\usepackage{ marvosym }
+\usepackage[unicode,pdfborder={0 0 0}]{hyperref}
+\hypersetup{colorlinks=true,	linkcolor = {Black},	citecolor = {RoyalBlue},	urlcolor = {RoyalBlue} }
 
 \usepackage{verbatim,indentfirst,cite,enumerate,float,amsmath,amssymb,amsthm,amsfonts}
 \usepackage{graphicx,fontspec,subfigure,bm}
@@ -28,73 +37,88 @@
 \graphicspath{
 	{Chapter-1/Addition_of_angular_velocity/}
 	{Chapter-1/Addition_of_motion/demo-1/}
-%	{Chapter-1/Inertia/demo-1/}
-%	{Chapter-1/Inertia/demo-2/}
-%	{Chapter-1/Movement_along_the_loop/}
-%	{Chapter-1/Movement_along_the_loop/}
-%	{Chapter-1/Newton_laws_of_mechanics/demo-1/}
-%	{Chapter-1/Newton_laws_of_mechanics/demo-2/}
-%	{Chapter-1/The_law_of_momentum_conservation/demo-1/}
-%	{Chapter-1/The_law_of_momentum_conservation/demo-2/}
-%	{Chapter-2/Center_of_mass/demo-1/}
-%	{Chapter-2/Center_of_mass/demo-2/}
-%	{Chapter-2/Gyroscopic_effect/demo-1/}
-%	{Chapter-2/Gyroscopic_effect/demo-2/}
-%	{Chapter-2/Moment_of_inertia/demo-1/}
-%	{Chapter-2/Moment_of_inertia/demo-2/}
-%	{Chapter-2/Strange_roll/}
-%	{Chapter-2/The_law_of_momentum_conservation/}
-%	{Chapter-3/Ball_collision/}
-%	{Chapter-3/Maxwell_pendulum/}
-%	{Chapter-3/Potential_barrier/}
-%	{Chapter-3/Rolling_cylinder/}
-%	{Chapter-3/Transition_of_energy/}
-%	{Chapter-4/Coriolis_force/}
-%	{Chapter-4/Foucault_pendulum/}
-%	{Chapter-4/Frictial_forces/demo-1/}
-%	{Chapter-4/Frictial_forces/demo-2/}
-%	{Chapter-4/Hooke_law/}
-%	{Chapter-4/Inertial_forces/demo-1/}
-%	{Chapter-4/Inertial_forces/demo-2/}
+	{Chapter-1/Inertia/demo-1/}
+	{Chapter-1/Inertia/demo-2/}
+	{Chapter-1/Movement_along_the_loop/}
+	{Chapter-1/Movement_along_the_loop/}
+	{Chapter-1/Newton_laws_of_mechanics/demo-1/}
+	{Chapter-1/Newton_laws_of_mechanics/demo-2/}
+	{Chapter-1/The_law_of_momentum_conservation/demo-1/}
+	{Chapter-1/The_law_of_momentum_conservation/demo-2/}
+	{Chapter-2/Center_of_mass/demo-1/}
+	{Chapter-2/Center_of_mass/demo-2/}
+	{Chapter-2/Gyroscopic_effect/demo-1/}
+	{Chapter-2/Gyroscopic_effect/demo-2/}
+	{Chapter-2/Moment_of_inertia/demo-1/}
+	{Chapter-2/Moment_of_inertia/demo-2/}
+	{Chapter-2/Strange_roll/}
+	{Chapter-2/The_law_of_momentum_conservation/}
+	{Chapter-3/Ball_collision/}
+	{Chapter-3/Maxwell_pendulum/}
+	{Chapter-3/Potential_barrier/}
+	{Chapter-3/Rolling_cylinder/}
+	{Chapter-3/Transition_of_energy/}
+	{Chapter-4/Coriolis_force/}
+	{Chapter-4/Foucault_pendulum/}
+	{Chapter-4/Frictial_forces/demo-1/}
+	{Chapter-4/Frictial_forces/demo-2/}
+	{Chapter-4/Hooke_law/}
+	{Chapter-4/Inertial_forces/demo-1/}
+	{Chapter-4/Inertial_forces/demo-2/}
 %	{Chapter-4/Inertial_forces/demo-3/}
 			 }
+		 
 \begin{document}
-	\newpage 	% Создание новой страницы
-	
-	\setcounter{page}{2}% Нумерация начинается со второй страницы
-	\renewcommand{\contentsname}{\center{Содержание}} 	% Использование Содержания вместо Оглавления
-	\tableofcontents
-	
-	
-	\subfile{Chapter-1/Addition_of_angular_velocity/Addition_of_angular_velocity.tex} % Сложение угловых скоростей
-	\subfile{Chapter-1/Addition_of_motion/demo-1/Addition_speeds.tex} % Сложение движений
-%	\subfile{Chapter-1/Inertia/demo-1/Pull_out_a_sheet.tex} % Выдергивание листа бумаги из-под стакана
-%	\subfile{Chapter-1/Inertia/demo-2/Impulse_and_two_threads.tex} % Импульс силы. Гиря и две нити
-%	\subfile{Chapter-1/Movement_along_the_loop/Loop.tex} % Петля Нестерова	
-%	\subfile{Chapter-1/Newton_laws_of_mechanics/demo-1/Second_Law_two_carts.tex} % Второй закон Ньютона. Две тележки
-%	\subfile{Chapter-1/Newton_laws_of_mechanics/demo-2/Third_Law_Archimedes.tex} % Третий закон Ньютона на примере силы Архимеда	
-%	
-%	\subfile{Chapter-2/Center_of_mass/demo-1/Center_of_mass.tex} % Отыскание центра масс
-%	\subfile{Chapter-2/Center_of_mass/demo-2/Сone.tex} % Двойной конус
-%	\subfile{Chapter-2/Gyroscopic_effect/demo-1/Gyroscope_on_a_rotating_platform.tex} % Гироскоп на вращающейся платформе
-%	\subfile{Chapter-2/Gyroscopic_effect/demo-2/Top.tex} % Прецессия Гироскопа. Волчок
-%	\subfile{Chapter-2/Moment_of_inertia/demo-1/Cross_Oberbeck_Pendulum.tex} % Крестообразный маятник Обербека
-%	\subfile{Chapter-2/Moment_of_inertia/demo-2/Rotation_axis.tex} % Свободные оси вращения
-%	\subfile{Chapter-2/Strange_roll/Strange_roll.tex} % Послушная и непослушная катушка
-%	\subfile{Chapter-2/The_law_of_momentum_conservation/Zhukovsky_is_bench.tex} % Скамья Жуковского
-%	
-%	\subfile{Chapter-3/Ball_collision/Elastic_and_non-elastic_shock.tex} % Упругий и неупругий удар
-%	\subfile{Chapter-3/Maxwell_pendulum/Maxwell_pendulum.tex} % Маятник Максвелла
-%	\subfile{Chapter-3/Potential_barrier/Potential_barrier.tex} % Потенциальный барьер
-%	\subfile{Chapter-3/Rolling_cylinder/Rolling_cylinder.tex} % Потенциальный барьер
-%	\subfile{Chapter-3/Transition_of_energy/Transition_of_energy.tex} % Изгиб
-%	
-%	\subfile{Chapter-4/Coriolis_force/Coriolis_force.tex} % Сила Кориолиса
-%	\subfile{Chapter-4/Foucault_pendulum/Foucault_pendulum.tex} % Маятник Фуко
-%	\subfile{Chapter-4/Frictial_forces/demo-1/Dry_and_fluid_friction.tex} % Крестообразный маятник Обербека
-%	\subfile{Chapter-4/Frictial_forces/demo-2/Dry_friction_force.tex} % Силы сухого трения
-%	\subfile{Chapter-4/Hooke_law/Hooke_is_law.tex} % Закон Гука
-%	\subfile{Chapter-4/Inertial_forces/demo-1/Plumbs_on_a_rotating_platform.tex} % Отвесы на вращающейся платформе
-%	\subfile{Chapter-4/Inertial_forces/demo-2/Parabolic_surface_of_a_rotating_fluid.tex} % Параболическая поверхность вращающейся жидкости
-%	\subfile{Chapter-4/Inertial_forces/demo-3/Dropping_a_chain_from_a_spinning_disk.tex} % Сбрасывание цепочки с вращающегося диска
+
+\newpage
+\setcounter{page}{1} % указывает с какой страницы начать нумерацию
+\renewcommand{\contentsname}{\center{\textcolor{PineGreen}{Оглавление}}}
+\renewcommand{\refname}{\center{\textcolor{PineGreen}{Список литературы}}}
+\tableofcontents
+\thispagestyle{empty}
+
+\newpage
+\thispagestyle{empty}
+\begin{figure}
+	\centering
+	\includegraphics[width=1\linewidth]{tit1}
+	\label{fig:tit1}
+\end{figure}
+
+\newpage
+	\subfile{Chapter-1/Addition_of_angular_velocity/Addition_of_angular_velocity.tex} \newpage % Сложение угловых скоростей 
+	\subfile{Chapter-1/Addition_of_motion/demo-1/Addition_speeds.tex} \newpage % Сложение движений
+	\subfile{Chapter-1/Inertia/demo-1/Pull_out_a_sheet.tex} \newpage % Выдергивание листа бумаги из-под стакана
+	\subfile{Chapter-1/Inertia/demo-2/Impulse_and_two_threads.tex} \newpage % Импульс силы. Гиря и две нити
+	\subfile{Chapter-1/Movement_along_the_loop/Loop.tex} \newpage % Петля Нестерова	
+	\subfile{Chapter-1/Newton_laws_of_mechanics/demo-1/Second_Law_two_carts.tex} \newpage % Второй закон Ньютона. Две тележки
+	\subfile{Chapter-1/Newton_laws_of_mechanics/demo-2/Third_Law_Archimedes.tex} \newpage % Третий закон Ньютона на примере силы Архимеда	
+
+\newpage
+	\subfile{Chapter-2/Center_of_mass/demo-1/Center_of_mass.tex} \newpage % Отыскание центра масс
+	\subfile{Chapter-2/Center_of_mass/demo-2/Сone.tex} \newpage % Двойной конус
+	\subfile{Chapter-2/Gyroscopic_effect/demo-1/Gyroscope_on_a_rotating_platform.tex} \newpage % Гироскоп на вращающейся платформе
+	\subfile{Chapter-2/Gyroscopic_effect/demo-2/Top.tex} \newpage % Прецессия Гироскопа. Волчок
+	\subfile{Chapter-2/Moment_of_inertia/demo-1/Cross_Oberbeck_Pendulum.tex} \newpage % Крестообразный маятник Обербека
+	\subfile{Chapter-2/Moment_of_inertia/demo-2/Rotation_axis.tex} \newpage % Свободные оси вращения
+	\subfile{Chapter-2/Strange_roll/Strange_roll.tex} \newpage % Послушная и непослушная катушка
+	\subfile{Chapter-2/The_law_of_momentum_conservation/Zhukovsky_is_bench.tex} \newpage % Скамья Жуковского
+
+\newpage
+	\subfile{Chapter-3/Ball_collision/Elastic_and_non-elastic_shock.tex} \newpage % Упругий и неупругий удар
+	\subfile{Chapter-3/Maxwell_pendulum/Maxwell_pendulum.tex} \newpage % Маятник Максвелла
+	\subfile{Chapter-3/Potential_barrier/Potential_barrier.tex} \newpage % Потенциальный барьер
+	\subfile{Chapter-3/Rolling_cylinder/Rolling_cylinder.tex} \newpage % Потенциальный барьер
+	\subfile{Chapter-3/Transition_of_energy/Transition_of_energy.tex} \newpage % Изгиб
+
+\newpage
+	\subfile{Chapter-4/Coriolis_force/Coriolis_force.tex} \newpage % Сила Кориолиса
+	\subfile{Chapter-4/Foucault_pendulum/Foucault_pendulum.tex} \newpage % Маятник Фуко
+	\subfile{Chapter-4/Frictial_forces/demo-1/Dry_and_fluid_friction.tex} \newpage % Крестообразный маятник Обербека
+	\subfile{Chapter-4/Frictial_forces/demo-2/Dry_friction_force.tex} \newpage % Силы сухого трения
+	\subfile{Chapter-4/Hooke_law/Hooke_is_law.tex} \newpage % Закон Гука
+	\subfile{Chapter-4/Inertial_forces/demo-1/Plumbs_on_a_rotating_platform.tex} \newpage % Отвесы на вращающейся платформе
+	\subfile{Chapter-4/Inertial_forces/demo-2/Parabolic_surface_of_a_rotating_fluid.tex} \newpage % Параболическая поверхность вращающейся жидкости
+
+%	\subfile{Chapter-4/Inertial_forces/demo-3/Dropping_a_chain_from_a_spinning_disk.tex} \newpage % Сбрасывание цепочки с вращающегося диска
 \end{document}
