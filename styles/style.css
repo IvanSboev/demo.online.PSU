@@ -1,3 +1,8 @@
+html {
+  font-size: 10px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+  font-family: 'PT Serif', serif;
+}
+
 li,h1,h2 {
   color: blue;
 }
