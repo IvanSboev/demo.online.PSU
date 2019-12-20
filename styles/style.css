@@ -4,6 +4,11 @@ html {
   /* background-color: #00539F;  цвет фона для всей страницы */
 }
 
+img {
+  display: block;
+  margin: 0 auto;
+}
+
 
 
 /* 
