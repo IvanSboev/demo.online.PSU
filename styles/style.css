@@ -4,13 +4,16 @@ html {
   /* background-color: #00539F;  цвет фона для всей страницы */
 }
 
+
+.frog{
+ display: block;
+}
+.frog + p{
+ width: 252px;
+ text-align: center;
+}
+
 /* 
-fig {
-    display: block;  Блочный элемент (для старых браузеров) 
-    text-align: center;  Выравнивание по центру 
-    font-style: italic;  Курсивное начертание 
-    color: #666;  Цвет подрисуночной подписи 
-   }
 li,h1,h2 {
   color: blue;
 }
