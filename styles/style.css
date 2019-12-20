@@ -5,10 +5,10 @@ html {
 }
 
 
-.frog{
+.wee{
  display: block;
 }
-.frog + p{
+.wee + p{
  width: 252px;
  text-align: center;
 }
