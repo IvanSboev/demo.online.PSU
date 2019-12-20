@@ -1,6 +1,7 @@
 html {
   font-size: 10px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
   font-family: 'PT Serif', serif;
+  /* background-color: #00539F;  цвет фона для всей страницы */
 }
 
 li,h1,h2 {
