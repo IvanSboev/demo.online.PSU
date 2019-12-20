@@ -1,26 +1,24 @@
 html {
-  font-size: 10px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+  /* font-size: 10px; px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
   font-family: 'PT Serif', serif;
   /* background-color: #00539F;  цвет фона для всей страницы */
 }
 
+/* 
 li,h1,h2 {
   color: blue;
 }
-
 h1 {
   font-size: 60px;
-  /* text-align: center;*/
+  text-align: center;
 }
-
 h2 {
   font-size: 45px;
-  /* text-align: center;*/
+  text-align: center;
 }
-
-
 p, li {
   font-size: 16px;    
-  /* line-height: 2; */
-  /* letter-spacing: 1px; */
+   line-height: 2; 
+   letter-spacing: 1px;
 }
+*/
