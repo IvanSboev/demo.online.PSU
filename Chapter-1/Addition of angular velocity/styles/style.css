@@ -5,11 +5,11 @@ html {
 }
 
 
-.wee{
+.angular{
  display: block;
 }
-.wee + p{
- width: 252px;
+.angular + p{
+ width: 536px;
  text-align: center;
 }
 
