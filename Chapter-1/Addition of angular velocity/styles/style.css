@@ -9,7 +9,7 @@ html {
  display: block;
 }
 .angular + p{
- width: 536px;
+ width: 250px;
  text-align: center;
 }
 
