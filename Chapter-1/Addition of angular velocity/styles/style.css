@@ -10,7 +10,7 @@ html {
 }
 .angular + p{
  width: 250px;
- text-align: center;
+ text-align: middle;
 }
 
 /* 
