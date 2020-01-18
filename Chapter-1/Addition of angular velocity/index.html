@@ -8,14 +8,12 @@
     <title>Addition of angular velocity</title>
 	<style>
    .fig {
-    display: block;
     text-align: center; 
 	font-style: italic;
    }
   </style>
-	<script 
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
   </head>
   
   <link href="https://fonts.googleapis.com/css?family=PT+Serif&display=swap" rel="stylesheet" type="text/css">
@@ -26,9 +24,9 @@
  
 <h2>Оборудование</h2>
     <ol>
-        <li>Шар диаметром 35 см, покрытый по линиям широт рядами пятен белого цвета диаметром 1 см.</li>
-        <li>Вращающийся держатель.</li>
-		<li>Машина с червячным механизмом.</li>
+        <li>Шар диаметром 35 см, покрытый по линиям широт рядами пятен белого цвета диаметром 1 см</li>
+        <li>Вращающийся держатель</li>
+		<li>Машина с червячным механизмом</li>
     </ol>
 	
 	<figure class = "fig">
@@ -38,9 +36,13 @@
 	  
 <h2>Основные определения</h2>
 	<p>
+	  When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
+  \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
+  
 	Угловая скорость — величина, характеризующая быстроту вращения твердого тела. 
 	При равномерном вращении тела вокруг неподвижной оси его угловая скорость численно равна приращению угла поворота \( \varphi \) 
-	за промежуток времени \( \Delta t \) $$ \omega = \Delta \varphi/ \Delta t.$$
+	за промежуток времени \( \Delta t \) 
+	$$ \omega = \Delta \varphi/ \Delta t.$$
 
 	В общем случае угловая скорость численно равна отношению элементарного угла поворота \( d\varphi \) 
 	к соответствующему элементарному промежутку времени \( dt \), то есть $$ \omega = d\varphi/dt. $$ 
