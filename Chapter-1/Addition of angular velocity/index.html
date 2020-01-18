@@ -2,20 +2,25 @@
 <html>
   <head>
     <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
     <meta property="og:image" content="angular-1.png">
 	<meta property="og:image" content="angular-2.png">
 	<meta property="og:image" content="angular-3.png">
     <title>Addition of angular velocity</title>
-	<style>
+	
+<style>
    .fig {
     text-align: center; 
 	font-style: italic;
    }
-  </style>
+</style>
+  
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-  </head>
+<script id="MathJax-script" async
+          src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 
+  </head>
   <body>
     
  <h1 align="center">Сложение угловых скоростей</h1>
@@ -35,24 +40,24 @@
 <h2>Основные определения</h2>
 <p>
 	Угловая скорость — величина, характеризующая быстроту вращения твердого тела. 
-	При равномерном вращении тела вокруг неподвижной оси его угловая скорость численно равна приращению угла поворота $\Delta \varphi$ 
-	за промежуток времени $\Delta t$:
+	При равномерном вращении тела вокруг неподвижной оси его угловая скорость численно равна приращению угла поворота \(\Delta \varphi\) 
+	за промежуток времени \(\Delta t\):
 	$$\omega = \frac{\Delta \varphi}{Δt}.$$
 
 	В общем случае угловая скорость численно равна отношению элементарного угла поворота \(d\varphi\) 
 	к соответствующему элементарному промежутку времени \(dt\), то есть 
-	\[\omega = \frac{d\varphi}{dt}.\] 
+	$$\omega = \frac{d\varphi}{dt}.$$
 
 	Таким образом, вектор угловой скорости \(\omega\) численно равен величине угловой скорости, лежит на оси вращения, 
 	и направление его связано с направлением вращения согласно правилу буравчика.
 
 	Поскольку угловая скорость есть вектор, то приращение ее также вектор и, следовательно, вектором является угловое ускорение:
-	\[\varepsilon = \frac{d\omega}{dt}.\]
+	$$\varepsilon = \frac{d\omega}{dt}.$$
 
 	Между векторами угловой и линейной скоростей для каждой материально точки твердого тела существует связь.
 
 	Вектор линейной скорости точки при вращательном движении равен векторному произведению вектора угловой скорости на радиус-вектор точки:
-	\[v = \omega \times r.\]
+	$$v = \omega \times r.$$
 
 </p>
 
